@@ -1,0 +1,22 @@
+<div class="ipost col-sm-6 bottommargin clearfix">
+  <div class="row">
+	<div class="col-md-6">
+	  <div class="entry-image nobottommargin">
+		<a href="[[+url]]"><img src="[[+image:pthumb=`w=605&h=402&zc=1&q=70`]]" alt="HPDG POSTS" width="165"></a>
+	  </div>
+	</div>
+	<div class="col-md-6" style="margin-top: 20px;">
+	  <div class="entry-title">
+		<h3><a href="[[+url]]">[[+name]]</a></h3>
+	  </div>
+	  <ul class="entry-meta clearfix">
+		<li><i class="icon-calendar3"></i>
+		  [[+date]]
+		</li>
+	  </ul>
+	  <div class="entry-content">
+		<a href="[[+url]]" class="more-link">Leggi tutto</a>
+	  </div>
+	</div>
+  </div>
+</div>

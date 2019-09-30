@@ -1,0 +1,10 @@
+<div class="container clearfix bottommargin topmargin hubblog">
+  <div class="row clearfix">
+	<div class="heading-block center bottommargin-sm nobottomborder">
+	  <h2>I nostri consigli</h2>
+	</div>
+  </div>
+  
+  [[+items]]
+  
+</div>
